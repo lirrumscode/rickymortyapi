@@ -1,0 +1,16 @@
+ion-card-content{
+    padding: 5px !important;
+}
+.container__text{
+    min-height: 0vh;
+}
+.container__text p{
+    margin-left: -5px;
+}
+.link__text{
+    color: #2e2e2e;
+    text-decoration: none;
+}
+.img{
+    width: 100%;
+}

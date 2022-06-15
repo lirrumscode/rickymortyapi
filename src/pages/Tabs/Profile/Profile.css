@@ -1,0 +1,36 @@
+.sec__profile .title {
+  text-align: left;
+  font-size: 51px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+.sec__profile .subtitle {
+  font-weight: 300;
+  font-size: 25px;
+}
+.sec__information .heading {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+}
+.sec__information .text {
+  text-align: left;
+  font-weight: 300;
+  font-size: 17px;
+  color: #000;
+}
+.text ul {
+  list-style: upper-latin;
+  font-weight: bold;
+}
+.text a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 300;
+  text-align: left;
+}
+.text a ion-icon {
+  position: relative;
+  top: 2px;
+  left: -5px;
+}

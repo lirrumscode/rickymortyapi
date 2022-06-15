@@ -1,0 +1,8 @@
+.text-header{
+    font-size: 15px;
+    text-align: center;
+}
+
+ion-toolbar{
+    --border-color: transparent;
+}
